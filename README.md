@@ -43,8 +43,7 @@ Backend & Python enthusiast passionate about server administration, database sys
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muh-musa&show_icons=true&theme=dark" alt="Muhammad Musa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muh-musa&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=muh-musa&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
