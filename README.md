@@ -20,7 +20,6 @@ Backend & Python enthusiast passionate about server administration, database sys
 - [Project-Backend-3](#) — Short description / purpose.
 - [Project-Backend-4](#) — Short description / purpose.
 
-> *Tip: Replace `#` with the actual repository URLs as they go live.*
 
 ---
 
