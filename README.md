@@ -69,9 +69,3 @@ Backend & Python developer passionate about server administration, database syst
   <a href="https://codepen.io/dev-next"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" /></a>
   <a href="mailto:sharohtcode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=muh-musa&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
-  </a>
-</p>
